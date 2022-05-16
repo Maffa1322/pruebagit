@@ -1,2 +1,8 @@
 tesis de grado de tics
 vendo papas
+
+Redaccion del capitulo 1
+
+Redaccion del capitulo 2 
+   Analisis del sistema 
+   diseño del sistema 
